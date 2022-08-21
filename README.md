@@ -8,3 +8,6 @@ Build using React.js
 - Accept and trigger callback function on expire
 - Reset option to restart the countdown
 - Accept and trigger callback fucntion before reset
+
+See working version here:
+https://codesandbox.io/s/countdown-timer-y3lmzj
